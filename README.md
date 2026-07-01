@@ -6,7 +6,7 @@ Designed as a full-stack SPA-like experience powered by server-side routing — 
 
 ## Tech Stack
 
-- **Backend:** Laravel 12
+- **Backend:** Laravel 13.18.0
 - **Frontend:** React + TypeScript (via Inertia.js)
 - **Styling:** Tailwind CSS
 - **Database:** MySQL
